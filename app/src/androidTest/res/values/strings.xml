@@ -1,0 +1,52 @@
+
+<resources>
+
+    <string name="screenshot_label1">Tasks</string>
+    <string name="screenshot_label2">Learning</string>
+    <string name="screenshot_label3">Homework</string>
+
+    <string name="screenshot_note1">"
+        Grocery list
+        + Butter
+        - Bread
+        + Chocolate
+        + Apples
+        - Bananas
+    "</string>
+
+    <string name="screenshot_note2">"
+        Recipe instructions
+        In a small pot over medium-low heat, melt the butter until it is golden and smells nutty.Strain through a sieve set over a bowl (see note). Let cool for 30 minutes. With the rack in the middle position, preheat the oven to 375°F (190°C). Line two baking sheets with silicone mats or parchment paper. Meanwhile, in a bowl, combine the flour, baking soda and salt.
+    "</string>
+
+    <string name="screenshot_note3">"
+        Random quote
+        Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
+    "</string>
+
+    <string name="screenshot_note4">"
+        Bucket list
+        + Buy bucket
+        + Buy water
+        - Pour water
+        - Drink bucket
+    "</string>
+
+    <string name="screenshot_note5">"
+        _
+        Not having heard something is not as good as having heard it; having heard it is not as good as having seen it; having seen it is not as good as knowing it; knowing it is not as good as putting it into practice.
+    "</string>
+
+    <string name="screenshot_note6">"
+        Languages to learn
+        + English
+        - French
+        + Spanish
+        - Mandarin
+        - Arabic
+    "</string>
+
+    <!-- Query should match only notes 1 and 2. -->
+    <string name="screenshot_search_query">butter</string>
+
+</resources>

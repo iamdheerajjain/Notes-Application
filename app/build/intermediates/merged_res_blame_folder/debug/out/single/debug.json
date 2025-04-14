@@ -1,0 +1,606 @@
+[
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_drag.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_drag.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\navigation_notification_nav_graph.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\navigation\\notification_nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable-xxxhdpi_ic_shortcut_list.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable-xxxhdpi\\ic_shortcut_list.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\layout_item_note_list_item.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\item_note_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\layout_item_message.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\item_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\color_item_edit_item_text_color.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\color\\item_edit_item_text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\layout_item_edit_date.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\item_edit_date.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\layout_dialog_reminder.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\dialog_reminder.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable-ldpi_ic_launcher_monochrome.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-pngs-1:\\drawable-ldpi\\ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_calendar.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\color-night_color_bg_item.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\color-night\\color_bg_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable-mdpi_ic_app_icon.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-pngs-1:\\drawable-mdpi\\ic_app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\layout_item_header.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\color_item_note_reminder_fg_color.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\color\\item_note_reminder_fg_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\mipmap-night-xxhdpi_splash_screen_logo.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\mipmap-night-xxhdpi\\splash_screen_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable-xxhdpi_ic_shortcut_alarm.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable-xxhdpi\\ic_shortcut_alarm.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_arrow_start.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_arrow_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\layout_item_edit_header.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\item_edit_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_repeat.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_repeat.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable-xhdpi_ic_shortcut_alarm.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable-xhdpi\\ic_shortcut_alarm.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\menu_toolbar_search.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\menu\\toolbar_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\color_color_bg_item.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\color\\color_bg_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_export.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_export.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_select_all.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_select_all.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_eye_off.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_eye_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable-anydpi-v24_ic_launcher_monochrome.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-pngs-1:\\drawable-anydpi-v24\\ic_launcher_monochrome.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\xml_shortcuts.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-debug-6:\\xml\\shortcuts.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\layout_item_edit_labels.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\item_edit_labels.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\layout_item_note_label.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\item_note_label.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable-hdpi_ic_shortcut_text.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable-hdpi\\ic_shortcut_text.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_text.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable-xxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-pngs-1:\\drawable-xxhdpi\\ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_check.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_pin_outline.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_pin_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_import.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_import.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_checkbox.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable-mdpi_ic_launcher_monochrome.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-pngs-1:\\drawable-mdpi\\ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\mipmap-night-mdpi_splash_screen_logo.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\mipmap-night-mdpi\\splash_screen_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_alarm.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\menu_toolbar_label.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\menu\\toolbar_label.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable-hdpi_ic_shortcut_alarm.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable-hdpi\\ic_shortcut_alarm.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\layout_fragment_edit.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\fragment_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\mipmap-xhdpi_splash_screen_logo.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\mipmap-xhdpi\\splash_screen_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\navigation_main_nav_graph.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\navigation\\main_nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\menu_cab_note_selection.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\menu\\cab_note_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable-xhdpi_ic_shortcut_list.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable-xhdpi\\ic_shortcut_list.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\layout_dialog_label_edit.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\dialog_label_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_shape_circle.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\shape_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\layout_item_edit_item_add.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\item_edit_item_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_pencil.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_pencil.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_label_outline.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_label_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\layout_dialog_sort.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\dialog_sort.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable-anydpi-v24_ic_app_icon.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-pngs-1:\\drawable-anydpi-v24\\ic_app_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\layout_item_material3_switch.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\item_material3_switch.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable-xhdpi_ic_shortcut_text.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable-xhdpi\\ic_shortcut_text.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable-xxxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-pngs-1:\\drawable-xxxhdpi\\ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\mipmap-hdpi_splash_screen_logo.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\mipmap-hdpi\\splash_screen_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\layout_view_search.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\view_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\layout_item_edit_content.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\item_edit_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_plus.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_sort.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_sort.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\menu_toolbar_edit.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\menu\\toolbar_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\mipmap-night-hdpi_splash_screen_logo.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\mipmap-night-hdpi\\splash_screen_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\mipmap-mdpi_splash_screen_logo.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\mipmap-mdpi\\splash_screen_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_avd_delete.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\avd_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable-xxxhdpi_ic_shortcut_text.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable-xxxhdpi\\ic_shortcut_text.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable-xxhdpi_ic_shortcut_text.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable-xxhdpi\\ic_shortcut_text.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\xml_prefs_preview_lines.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\xml\\prefs_preview_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_list.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\raw_license_apache_2_0.txt.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-debug-0:\\raw\\license_apache_2_0.txt"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable-xhdpi_ic_launcher_monochrome.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-pngs-1:\\drawable-xhdpi\\ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_share.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_delete.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_code.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\layout_view_edit_chip_reminder.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\view_edit_chip_reminder.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\color-v23_color_bg_placeholder.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\color-v23\\color_bg_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable-mdpi_ic_shortcut_text.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable-mdpi\\ic_shortcut_text.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\color_item_note_reminder_stroke_color.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\color\\item_note_reminder_stroke_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_theme.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_theme.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_label_multiple_outline.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_label_multiple_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\color_color_toolbar_hint.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\color\\color_toolbar_hint.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\menu_navigation_drawer.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\menu\\navigation_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable-hdpi_ic_shortcut_list.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable-hdpi\\ic_shortcut_list.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_checkbox_on.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_checkbox_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_clock_outline.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_clock_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\menu_toolbar_home.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\menu\\toolbar_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable-hdpi_ic_app_icon.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-pngs-1:\\drawable-hdpi\\ic_app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\layout_item_label.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\item_label.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_splash_screen.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\color-v23_color_bg_item.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\color-v23\\color_bg_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_view_grid.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_view_grid.xml"
+    },
+    {
+        "merged": "com.maltaisn.notes.app-merged_res-5:/xml_prefs.xml.flat",
+        "source": "com.maltaisn.notes.app-main-7:/xml/prefs.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_pin.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_pin.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable-hdpi_ic_launcher_monochrome.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-pngs-1:\\drawable-hdpi\\ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\color_color_bg_placeholder.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\color\\color_bg_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable-xxxhdpi_ic_app_icon.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-pngs-1:\\drawable-xxxhdpi\\ic_app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_information.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_information.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_menu.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\layout_item_note_list.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\item_note_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\xml_prefs.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\xml\\prefs.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\layout_dialog_export_password.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\dialog_export_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\color-night_color_bg_placeholder.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\color-night\\color_bg_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_unarchive.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_unarchive.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable-xxxhdpi_ic_shortcut_alarm.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable-xxxhdpi\\ic_shortcut_alarm.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable-xxhdpi_ic_app_icon.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-pngs-1:\\drawable-xxhdpi\\ic_app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable-ldpi_ic_app_icon.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-pngs-1:\\drawable-ldpi\\ic_app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\layout_item_edit_item.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\item_edit_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\layout_item_note_text.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\item_note_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_checkbox_off.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_checkbox_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_archive.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_archive.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\menu_cab_label_selection.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\menu\\cab_label_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_restore.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_restore.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\mipmap-night-xhdpi_splash_screen_logo.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\mipmap-night-xhdpi\\splash_screen_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_label.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_label.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable-mdpi_ic_shortcut_list.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable-mdpi\\ic_shortcut_list.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable-xxhdpi_ic_shortcut_list.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable-xxhdpi\\ic_shortcut_list.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\layout_fragment_note.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\fragment_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\layout_fragment_label.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\fragment_label.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\layout_view_edit_chip_label.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\view_edit_chip_label.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\layout_item_edit_title.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\item_edit_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\layout_dialog_import_password.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\dialog_import_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable-mdpi_ic_shortcut_alarm.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable-mdpi\\ic_shortcut_alarm.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_ic_view_list.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\ic_view_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\layout_activity_notification.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\activity_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable_avd_archive.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\drawable\\avd_archive.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\mipmap-xxhdpi_splash_screen_logo.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\mipmap-xxhdpi\\splash_screen_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\drawable-xhdpi_ic_app_icon.png.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-pngs-1:\\drawable-xhdpi\\ic_app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\layout_drawer_header.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\drawer_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-merged_res-5:\\color_color_note_card_stroke.xml.flat",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\color\\color_note_card_stroke.xml"
+    }
+]

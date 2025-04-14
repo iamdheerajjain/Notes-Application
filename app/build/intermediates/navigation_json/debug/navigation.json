@@ -1,0 +1,14 @@
+[
+  {
+    "name": "main_nav_graph",
+    "navigationXmlIds": [
+      "aboutlibs_navigation"
+    ],
+    "deepLinks": []
+  },
+  {
+    "name": "notification_nav_graph",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  }
+]

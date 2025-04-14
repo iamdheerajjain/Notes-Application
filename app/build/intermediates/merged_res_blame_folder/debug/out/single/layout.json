@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "com.maltaisn.notes.app-mergeDebugResources-4:/layout/fragment_settings.xml",
+        "source": "com.maltaisn.notes.app-main-7:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-mergeDebugResources-4:\\layout\\item_edit_item_add.xml",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\item_edit_item_add.xml"
+    },
+    {
+        "merged": "com.maltaisn.notes.app-mergeDebugResources-4:/layout/item_note_list.xml",
+        "source": "com.maltaisn.notes.app-main-7:/layout/item_note_list.xml"
+    },
+    {
+        "merged": "com.maltaisn.notes.app-mergeDebugResources-4:/layout/dialog_sort.xml",
+        "source": "com.maltaisn.notes.app-main-7:/layout/dialog_sort.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-mergeDebugResources-4:\\layout\\dialog_sort.xml",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\dialog_sort.xml"
+    },
+    {
+        "merged": "com.maltaisn.notes.app-mergeDebugResources-4:/layout/item_edit_header.xml",
+        "source": "com.maltaisn.notes.app-main-7:/layout/item_edit_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-mergeDebugResources-4:\\layout\\dialog_export_password.xml",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\dialog_export_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-mergeDebugResources-4:\\layout\\activity_notification.xml",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\activity_notification.xml"
+    },
+    {
+        "merged": "com.maltaisn.notes.app-mergeDebugResources-4:/layout/view_edit_chip_label.xml",
+        "source": "com.maltaisn.notes.app-main-7:/layout/view_edit_chip_label.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-mergeDebugResources-4:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-mergeDebugResources-4:\\layout\\item_edit_item.xml",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\item_edit_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-mergeDebugResources-4:\\layout\\dialog_label_edit.xml",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\dialog_label_edit.xml"
+    },
+    {
+        "merged": "com.maltaisn.notes.app-mergeDebugResources-4:/layout/item_note_list_item.xml",
+        "source": "com.maltaisn.notes.app-main-7:/layout/item_note_list_item.xml"
+    },
+    {
+        "merged": "com.maltaisn.notes.app-mergeDebugResources-4:/layout/item_edit_content.xml",
+        "source": "com.maltaisn.notes.app-main-7:/layout/item_edit_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-mergeDebugResources-4:\\layout\\fragment_label.xml",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\fragment_label.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-mergeDebugResources-4:\\layout\\item_edit_labels.xml",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\item_edit_labels.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-mergeDebugResources-4:\\layout\\item_note_label.xml",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\item_note_label.xml"
+    },
+    {
+        "merged": "com.maltaisn.notes.app-mergeDebugResources-4:/layout/view_edit_chip_reminder.xml",
+        "source": "com.maltaisn.notes.app-main-7:/layout/view_edit_chip_reminder.xml"
+    },
+    {
+        "merged": "com.maltaisn.notes.app-mergeDebugResources-4:/layout/dialog_import_password.xml",
+        "source": "com.maltaisn.notes.app-main-7:/layout/dialog_import_password.xml"
+    },
+    {
+        "merged": "com.maltaisn.notes.app-mergeDebugResources-4:/layout/dialog_export_password.xml",
+        "source": "com.maltaisn.notes.app-main-7:/layout/dialog_export_password.xml"
+    },
+    {
+        "merged": "com.maltaisn.notes.app-mergeDebugResources-4:/layout/activity_notification.xml",
+        "source": "com.maltaisn.notes.app-main-7:/layout/activity_notification.xml"
+    },
+    {
+        "merged": "com.maltaisn.notes.app-mergeDebugResources-4:/layout/item_material3_switch.xml",
+        "source": "com.maltaisn.notes.app-main-7:/layout/item_material3_switch.xml"
+    },
+    {
+        "merged": "com.maltaisn.notes.app-mergeDebugResources-4:/layout/item_edit_title.xml",
+        "source": "com.maltaisn.notes.app-main-7:/layout/item_edit_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-mergeDebugResources-4:\\layout\\item_note_text.xml",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\item_note_text.xml"
+    },
+    {
+        "merged": "com.maltaisn.notes.app-mergeDebugResources-4:/layout/item_edit_item_add.xml",
+        "source": "com.maltaisn.notes.app-main-7:/layout/item_edit_item_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-mergeDebugResources-4:\\layout\\dialog_import_password.xml",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\dialog_import_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-mergeDebugResources-4:\\layout\\item_material3_switch.xml",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\item_material3_switch.xml"
+    },
+    {
+        "merged": "com.maltaisn.notes.app-mergeDebugResources-4:/layout/item_label.xml",
+        "source": "com.maltaisn.notes.app-main-7:/layout/item_label.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-mergeDebugResources-4:\\layout\\item_note_list_item.xml",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\item_note_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-mergeDebugResources-4:\\layout\\item_header.xml",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\item_header.xml"
+    },
+    {
+        "merged": "com.maltaisn.notes.app-mergeDebugResources-4:/layout/dialog_reminder.xml",
+        "source": "com.maltaisn.notes.app-main-7:/layout/dialog_reminder.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-mergeDebugResources-4:\\layout\\item_note_list.xml",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\item_note_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-mergeDebugResources-4:\\layout\\item_edit_date.xml",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\item_edit_date.xml"
+    },
+    {
+        "merged": "com.maltaisn.notes.app-mergeDebugResources-4:/layout/activity_main.xml",
+        "source": "com.maltaisn.notes.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-mergeDebugResources-4:\\layout\\fragment_edit.xml",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\fragment_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-mergeDebugResources-4:\\layout\\view_search.xml",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\view_search.xml"
+    },
+    {
+        "merged": "com.maltaisn.notes.app-mergeDebugResources-4:/layout/item_note_text.xml",
+        "source": "com.maltaisn.notes.app-main-7:/layout/item_note_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-mergeDebugResources-4:\\layout\\drawer_header.xml",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\drawer_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-mergeDebugResources-4:\\layout\\view_edit_chip_label.xml",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\view_edit_chip_label.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-mergeDebugResources-4:\\layout\\item_edit_content.xml",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\item_edit_content.xml"
+    },
+    {
+        "merged": "com.maltaisn.notes.app-mergeDebugResources-4:/layout/view_search.xml",
+        "source": "com.maltaisn.notes.app-main-7:/layout/view_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-mergeDebugResources-4:\\layout\\dialog_reminder.xml",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\dialog_reminder.xml"
+    },
+    {
+        "merged": "com.maltaisn.notes.app-mergeDebugResources-4:/layout/drawer_header.xml",
+        "source": "com.maltaisn.notes.app-main-7:/layout/drawer_header.xml"
+    },
+    {
+        "merged": "com.maltaisn.notes.app-mergeDebugResources-4:/layout/item_header.xml",
+        "source": "com.maltaisn.notes.app-main-7:/layout/item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-mergeDebugResources-4:\\layout\\view_edit_chip_reminder.xml",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\view_edit_chip_reminder.xml"
+    },
+    {
+        "merged": "com.maltaisn.notes.app-mergeDebugResources-4:/layout/dialog_label_edit.xml",
+        "source": "com.maltaisn.notes.app-main-7:/layout/dialog_label_edit.xml"
+    },
+    {
+        "merged": "com.maltaisn.notes.app-mergeDebugResources-4:/layout/fragment_label.xml",
+        "source": "com.maltaisn.notes.app-main-7:/layout/fragment_label.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-mergeDebugResources-4:\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "com.maltaisn.notes.app-mergeDebugResources-4:/layout/fragment_edit.xml",
+        "source": "com.maltaisn.notes.app-main-7:/layout/fragment_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-mergeDebugResources-4:\\layout\\item_message.xml",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\item_message.xml"
+    },
+    {
+        "merged": "com.maltaisn.notes.app-mergeDebugResources-4:/layout/item_edit_item.xml",
+        "source": "com.maltaisn.notes.app-main-7:/layout/item_edit_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-mergeDebugResources-4:\\layout\\item_label.xml",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\item_label.xml"
+    },
+    {
+        "merged": "com.maltaisn.notes.app-mergeDebugResources-4:/layout/fragment_note.xml",
+        "source": "com.maltaisn.notes.app-main-7:/layout/fragment_note.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-mergeDebugResources-4:\\layout\\item_edit_title.xml",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\item_edit_title.xml"
+    },
+    {
+        "merged": "com.maltaisn.notes.app-mergeDebugResources-4:/layout/item_edit_date.xml",
+        "source": "com.maltaisn.notes.app-main-7:/layout/item_edit_date.xml"
+    },
+    {
+        "merged": "com.maltaisn.notes.app-mergeDebugResources-4:/layout/item_edit_labels.xml",
+        "source": "com.maltaisn.notes.app-main-7:/layout/item_edit_labels.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-mergeDebugResources-4:\\layout\\item_edit_header.xml",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\item_edit_header.xml"
+    },
+    {
+        "merged": "com.maltaisn.notes.app-mergeDebugResources-4:/layout/item_message.xml",
+        "source": "com.maltaisn.notes.app-main-7:/layout/item_message.xml"
+    },
+    {
+        "merged": "com.maltaisn.notes.app-mergeDebugResources-4:/layout/item_note_label.xml",
+        "source": "com.maltaisn.notes.app-main-7:/layout/item_note_label.xml"
+    },
+    {
+        "merged": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-mergeDebugResources-4:\\layout\\fragment_note.xml",
+        "source": "C:\\Users\\dherj\\.gradle\\daemon\\8.3\\com.maltaisn.notes.app-main-7:\\layout\\fragment_note.xml"
+    }
+]

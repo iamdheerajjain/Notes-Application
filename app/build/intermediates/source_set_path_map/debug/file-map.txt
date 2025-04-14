@@ -1,0 +1,68 @@
+com.maltaisn.notes.app-debug-0 C:\Android Studios\Notes\app\build\generated\aboutlibraries\debug\res
+com.maltaisn.notes.app-pngs-1 C:\Android Studios\Notes\app\build\generated\res\pngs\debug
+com.maltaisn.notes.app-resValues-2 C:\Android Studios\Notes\app\build\generated\res\resValues\debug
+com.maltaisn.notes.app-packageDebugResources-3 C:\Android Studios\Notes\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.maltaisn.notes.app-packageDebugResources-4 C:\Android Studios\Notes\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.maltaisn.notes.app-merged_res-5 C:\Android Studios\Notes\app\build\intermediates\merged_res\debug
+com.maltaisn.notes.app-debug-6 C:\Android Studios\Notes\app\src\debug\res
+com.maltaisn.notes.app-main-7 C:\Android Studios\Notes\app\src\main\res
+com.maltaisn.notes.app-leakcanary-android-core-2.12-8 C:\Users\dherj\.gradle\caches\transforms-3\000e3da2f50504a6f77a8cb30fce95ca\transformed\leakcanary-android-core-2.12\res
+com.maltaisn.notes.app-profileinstaller-1.3.0-9 C:\Users\dherj\.gradle\caches\transforms-3\02383dbb902b946cfed7dea5e4591a7c\transformed\profileinstaller-1.3.0\res
+com.maltaisn.notes.app-transition-1.4.1-10 C:\Users\dherj\.gradle\caches\transforms-3\0352b2e91eab58733c5121c0fa471a25\transformed\transition-1.4.1\res
+com.maltaisn.notes.app-navigation-fragment-2.7.6-11 C:\Users\dherj\.gradle\caches\transforms-3\090e03b93adfbbf47b54d3e944757bb2\transformed\navigation-fragment-2.7.6\res
+com.maltaisn.notes.app-plumber-android-2.12-12 C:\Users\dherj\.gradle\caches\transforms-3\0aacb2381042775f83965d0bbd245bc0\transformed\plumber-android-2.12\res
+com.maltaisn.notes.app-material-1.11.0-13 C:\Users\dherj\.gradle\caches\transforms-3\0cd78775641db1374ee26c125f7d996d\transformed\material-1.11.0\res
+com.maltaisn.notes.app-drawerlayout-1.1.1-14 C:\Users\dherj\.gradle\caches\transforms-3\0dbff9a0751d2b6d0ca14bb82871ba14\transformed\drawerlayout-1.1.1\res
+com.maltaisn.notes.app-emoji2-views-helper-1.2.0-15 C:\Users\dherj\.gradle\caches\transforms-3\0eb997c32ff7773e6f1b1ff665898fa2\transformed\emoji2-views-helper-1.2.0\res
+com.maltaisn.notes.app-aboutlibraries-core-8.9.3-16 C:\Users\dherj\.gradle\caches\transforms-3\0fbd85180cab096789109e60428e41dd\transformed\aboutlibraries-core-8.9.3\res
+com.maltaisn.notes.app-aboutlibraries-8.9.3-17 C:\Users\dherj\.gradle\caches\transforms-3\112ec157e2dc629c19b1e1edf72f5d11\transformed\aboutlibraries-8.9.3\res
+com.maltaisn.notes.app-navigation-fragment-ktx-2.7.6-18 C:\Users\dherj\.gradle\caches\transforms-3\11d2e6e3a699ded67b0b07fdaa481ede\transformed\navigation-fragment-ktx-2.7.6\res
+com.maltaisn.notes.app-fragment-ktx-1.6.2-19 C:\Users\dherj\.gradle\caches\transforms-3\1cd01eeaa5b0ec20424a43f579793bef\transformed\fragment-ktx-1.6.2\res
+com.maltaisn.notes.app-navigation-ui-2.7.6-20 C:\Users\dherj\.gradle\caches\transforms-3\26d77231db93557abda03c8c841ee723\transformed\navigation-ui-2.7.6\res
+com.maltaisn.notes.app-lifecycle-runtime-2.6.2-21 C:\Users\dherj\.gradle\caches\transforms-3\29f22c3504d3314a526d30882b2ecf72\transformed\lifecycle-runtime-2.6.2\res
+com.maltaisn.notes.app-customview-poolingcontainer-1.0.0-22 C:\Users\dherj\.gradle\caches\transforms-3\327e3df812b7a5ab7669278607d85d6c\transformed\customview-poolingcontainer-1.0.0\res
+com.maltaisn.notes.app-recurpicker-2.1.7-23 C:\Users\dherj\.gradle\caches\transforms-3\352e981a7bb1d750eea0136699373d5c\transformed\recurpicker-2.1.7\res
+com.maltaisn.notes.app-lifecycle-viewmodel-2.6.2-24 C:\Users\dherj\.gradle\caches\transforms-3\36ef5a2ec8159c2ed6916372abd1534f\transformed\lifecycle-viewmodel-2.6.2\res
+com.maltaisn.notes.app-preference-1.2.1-25 C:\Users\dherj\.gradle\caches\transforms-3\374b5c204c0fa2630b0d69e08c22fc39\transformed\preference-1.2.1\res
+com.maltaisn.notes.app-core-1.12.0-26 C:\Users\dherj\.gradle\caches\transforms-3\3762f5412626f10144f74c0085a16d18\transformed\core-1.12.0\res
+com.maltaisn.notes.app-core-runtime-2.2.0-27 C:\Users\dherj\.gradle\caches\transforms-3\3feaa3f1e4987634058928fb17eae6a3\transformed\core-runtime-2.2.0\res
+com.maltaisn.notes.app-cardview-1.0.0-28 C:\Users\dherj\.gradle\caches\transforms-3\493eca8c4e92ce912c9f7175a304f4ef\transformed\cardview-1.0.0\res
+com.maltaisn.notes.app-lifecycle-livedata-core-2.6.2-29 C:\Users\dherj\.gradle\caches\transforms-3\4f2480c6d8438431f4cc699c91dcb9f6\transformed\lifecycle-livedata-core-2.6.2\res
+com.maltaisn.notes.app-sqlite-framework-2.4.0-30 C:\Users\dherj\.gradle\caches\transforms-3\52b5ae0322aa3abe06fefb83d54b94fa\transformed\sqlite-framework-2.4.0\res
+com.maltaisn.notes.app-lifecycle-livedata-core-ktx-2.6.2-31 C:\Users\dherj\.gradle\caches\transforms-3\56e2e90be449eb7048c1ce002ae0f3e0\transformed\lifecycle-livedata-core-ktx-2.6.2\res
+com.maltaisn.notes.app-room-runtime-2.6.1-32 C:\Users\dherj\.gradle\caches\transforms-3\642d8dfe841e034911a246ea6b893251\transformed\room-runtime-2.6.1\res
+com.maltaisn.notes.app-venom-0.7.1-33 C:\Users\dherj\.gradle\caches\transforms-3\647d9b565847cb984fdc6549e7d8b9e7\transformed\venom-0.7.1\res
+com.maltaisn.notes.app-appcompat-1.6.1-34 C:\Users\dherj\.gradle\caches\transforms-3\6675ab18a6a6f23f2298ffb65534ee9b\transformed\appcompat-1.6.1\res
+com.maltaisn.notes.app-slidingpanelayout-1.2.0-35 C:\Users\dherj\.gradle\caches\transforms-3\6f87fbd5a02a949a624188c751c6b1df\transformed\slidingpanelayout-1.2.0\res
+com.maltaisn.notes.app-navigation-common-ktx-2.7.6-36 C:\Users\dherj\.gradle\caches\transforms-3\7a511a315807ece85ac5f6fefd7ece3e\transformed\navigation-common-ktx-2.7.6\res
+com.maltaisn.notes.app-window-1.0.0-37 C:\Users\dherj\.gradle\caches\transforms-3\7d4e840df8cf7512283fb8a0a570bc2d\transformed\window-1.0.0\res
+com.maltaisn.notes.app-navigation-common-2.7.6-38 C:\Users\dherj\.gradle\caches\transforms-3\834ec733c58c41aa4d23f9ffd9e7053a\transformed\navigation-common-2.7.6\res
+com.maltaisn.notes.app-emoji2-1.2.0-39 C:\Users\dherj\.gradle\caches\transforms-3\844798deae4fe1979beeeba652ed8a79\transformed\emoji2-1.2.0\res
+com.maltaisn.notes.app-lifecycle-viewmodel-ktx-2.6.2-40 C:\Users\dherj\.gradle\caches\transforms-3\87b218138deb509c344d2e73b390471f\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.maltaisn.notes.app-recyclerview-1.3.2-41 C:\Users\dherj\.gradle\caches\transforms-3\887016f723e95f65ff833cb6971b7b30\transformed\recyclerview-1.3.2\res
+com.maltaisn.notes.app-startup-runtime-1.1.1-42 C:\Users\dherj\.gradle\caches\transforms-3\89d6b1e256965e82554419b1b5a550b3\transformed\startup-runtime-1.1.1\res
+com.maltaisn.notes.app-savedstate-ktx-1.2.1-43 C:\Users\dherj\.gradle\caches\transforms-3\8b23bfb2eb11767ca812f85dd47864e4\transformed\savedstate-ktx-1.2.1\res
+com.maltaisn.notes.app-navigation-runtime-2.7.6-44 C:\Users\dherj\.gradle\caches\transforms-3\8cd011f667b88207a6f97ac0360a2f7b\transformed\navigation-runtime-2.7.6\res
+com.maltaisn.notes.app-core-ktx-1.12.0-45 C:\Users\dherj\.gradle\caches\transforms-3\8e676fb5dd4a29604f72c3c86d2f02ba\transformed\core-ktx-1.12.0\res
+com.maltaisn.notes.app-constraintlayout-2.1.4-46 C:\Users\dherj\.gradle\caches\transforms-3\93bbb3b2d33ca5be5ad74b47061406eb\transformed\constraintlayout-2.1.4\res
+com.maltaisn.notes.app-sqlite-2.4.0-47 C:\Users\dherj\.gradle\caches\transforms-3\957092bb33c4fb29d06f8dd763b79b30\transformed\sqlite-2.4.0\res
+com.maltaisn.notes.app-annotation-experimental-1.3.0-48 C:\Users\dherj\.gradle\caches\transforms-3\95e4a81c29358edc199df677eb04263a\transformed\annotation-experimental-1.3.0\res
+com.maltaisn.notes.app-lifecycle-livedata-ktx-2.6.2-49 C:\Users\dherj\.gradle\caches\transforms-3\995471a5831c7bb069c02fe9084f5f78\transformed\lifecycle-livedata-ktx-2.6.2\res
+com.maltaisn.notes.app-preference-ktx-1.2.1-50 C:\Users\dherj\.gradle\caches\transforms-3\9c6812b4e22b7b635f911f0fde649085\transformed\preference-ktx-1.2.1\res
+com.maltaisn.notes.app-navigation-runtime-ktx-2.7.6-51 C:\Users\dherj\.gradle\caches\transforms-3\a25c3c0044882912ac03c819bfa08857\transformed\navigation-runtime-ktx-2.7.6\res
+com.maltaisn.notes.app-coordinatorlayout-1.1.0-52 C:\Users\dherj\.gradle\caches\transforms-3\a433a1668ced4925ebcd33afd628a641\transformed\coordinatorlayout-1.1.0\res
+com.maltaisn.notes.app-appcompat-resources-1.6.1-53 C:\Users\dherj\.gradle\caches\transforms-3\ac2616989e6f5100ebedca9b1ea8f723\transformed\appcompat-resources-1.6.1\res
+com.maltaisn.notes.app-navigation-ui-ktx-2.7.6-54 C:\Users\dherj\.gradle\caches\transforms-3\b84c4328f0d5e4c07e8def058a520c95\transformed\navigation-ui-ktx-2.7.6\res
+com.maltaisn.notes.app-lifecycle-process-2.6.2-55 C:\Users\dherj\.gradle\caches\transforms-3\c3928559a6512f29b7e3963e1480c219\transformed\lifecycle-process-2.6.2\res
+com.maltaisn.notes.app-lifecycle-viewmodel-savedstate-2.6.2-56 C:\Users\dherj\.gradle\caches\transforms-3\c3f25b84b349cdb7bd1759820b3ee307\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.maltaisn.notes.app-lifecycle-runtime-ktx-2.6.2-57 C:\Users\dherj\.gradle\caches\transforms-3\c9b70cdd09b05d464b8c142da6b84365\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.maltaisn.notes.app-fastadapter-5.4.1-58 C:\Users\dherj\.gradle\caches\transforms-3\cb245fcce9f06cde4a14c14c258bb7fd\transformed\fastadapter-5.4.1\res
+com.maltaisn.notes.app-savedstate-1.2.1-59 C:\Users\dherj\.gradle\caches\transforms-3\d6b144828e908fcdb20b8f9432b5dfef\transformed\savedstate-1.2.1\res
+com.maltaisn.notes.app-activity-ktx-1.8.0-60 C:\Users\dherj\.gradle\caches\transforms-3\e2525c3bef0da07d54636f251a6875a2\transformed\activity-ktx-1.8.0\res
+com.maltaisn.notes.app-lifecycle-livedata-2.6.2-61 C:\Users\dherj\.gradle\caches\transforms-3\e29d0995dc4aa558318f652bd01ba0d9\transformed\lifecycle-livedata-2.6.2\res
+com.maltaisn.notes.app-activity-1.8.0-62 C:\Users\dherj\.gradle\caches\transforms-3\e3c42e3e83c19e5e55dfce0ec01b8f81\transformed\activity-1.8.0\res
+com.maltaisn.notes.app-room-ktx-2.6.1-63 C:\Users\dherj\.gradle\caches\transforms-3\e42b2e2354c69531bde322719f8d092d\transformed\room-ktx-2.6.1\res
+com.maltaisn.notes.app-leakcanary-object-watcher-android-2.12-64 C:\Users\dherj\.gradle\caches\transforms-3\e5c8a2ba61a775f0eb7a361d531cb1c6\transformed\leakcanary-object-watcher-android-2.12\res
+com.maltaisn.notes.app-fragment-1.6.2-65 C:\Users\dherj\.gradle\caches\transforms-3\e87085aa1dc77f9c4f42e76ba930677e\transformed\fragment-1.6.2\res
+com.maltaisn.notes.app-leakcanary-object-watcher-android-core-2.12-66 C:\Users\dherj\.gradle\caches\transforms-3\f76747cffb637eb705a9281bd3aa2df7\transformed\leakcanary-object-watcher-android-core-2.12\res
+com.maltaisn.notes.app-viewpager2-1.1.0-beta02-67 C:\Users\dherj\.gradle\caches\transforms-3\fd0f51376fa0d30a8feb72bb7b468574\transformed\viewpager2-1.1.0-beta02\res

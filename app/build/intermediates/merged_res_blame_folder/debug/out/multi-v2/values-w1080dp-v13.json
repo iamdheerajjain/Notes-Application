@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.maltaisn.notes.app-mergeDebugResources-3:/values-w1080dp-v13/values-w1080dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Android Studios\\Notes\\app\\src\\main\\res\\values-w1080dp\\dimen.xml",
+                    "from": {
+                        "startLines": "19,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "722,661",
+                        "endColumns": "59,59",
+                        "endOffsets": "777,716"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,115",
+                        "endColumns": "59,59",
+                        "endOffsets": "110,170"
+                    }
+                }
+            ]
+        }
+    ]
+}

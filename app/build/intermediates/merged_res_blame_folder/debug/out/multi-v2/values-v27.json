@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.maltaisn.notes.app-mergeDebugResources-3:/values-v27/values-v27.xml",
+            "map": [
+                {
+                    "source": "C:\\Android Studios\\Notes\\app\\src\\main\\res\\values-v27\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "498"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "489"
+                    }
+                }
+            ]
+        }
+    ]
+}
